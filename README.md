@@ -1,6 +1,7 @@
 # Harvard CS50 Python Final Project
 
 ## Equation Analyzer
+Analyzes a math equation, shows its graph and basic information (Critical points, limits and interceptions)
 
 ## Run Locally
 
@@ -16,8 +17,11 @@ pip install -r requirements.txt
 ```
 
 Run 'project.py' and enjoy!
+```python
+python project.py
+```
 
-## Demo <https://youtu.be/nzRHHlW8zRk>
+## [Demo](https://youtu.be/nzRHHlW8zRk)
 
 ## License
 
